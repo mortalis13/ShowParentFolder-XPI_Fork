@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I22jqC+q9MyhQT5HEAoibw==
+SHA1-Digest: AeMFp8TJkh5X3LeqbjEzd+t3STk=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HgBK0pgJqrQHxzAgkdyOIw==
+SHA1-Digest: VTGpEvRVuWMtBOlGQVgsF67kLQY=
+
+Name: chrome/showparentfolder.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dozyQI4N24CAvpS2c65ugQ==
+SHA1-Digest: 3BSBuSD87eiodU6gCYcUk9fmRbE=
+
+Name: defaults/preferences/showparentfolder.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XfhGYMCob/IdizGdCnUSlw==
+SHA1-Digest: TvHbQf0O+S3VZNGYYx3GtVweWNM=
+

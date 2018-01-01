@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="rdf:#$EgmeG"
+                   em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
+                   em:minVersion="31.0"
+                   em:maxVersion="51.0a1" />
+  <RDF:Description RDF:about="urn:mozilla:install-manifest"
+                   em:id="showParentFolder@alice"
+                   em:version="2.1.1"
+                   em:type="2"
+                   em:name="Show Parent Folder"
+                   em:description="Show Parent Folder"
+                   em:creator="Alice0775"
+                   em:optionsURL="chrome://showparentfolder/content/pref.xul"
+                   em:homepageURL="http://space.geocities.yahoo.co.jp/gl/alice0775"
+                   >
+    <em:contributor>Goofy (fr translation)</em:contributor>
+    <em:contributor>DakSrbija (sr-RS translation)</em:contributor>
+    <em:contributor>rau360 (de-DE translation)</em:contributor>
+    <em:contributor>edgard.magalhaes (pt-BR translation)</em:contributor>
+    <em:contributor>Sappa (uk-UA translation)</em:contributor>
+    <em:contributor>BruceH (zh-CN translation)</em:contributor>
+    <em:targetApplication RDF:resource="rdf:#$EgmeG"/>
+  </RDF:Description>
+</RDF:RDF>

@@ -1,0 +1,19 @@
+content showparentfolder jar:chrome/showparentfolder.jar!/content/
+
+locale showparentfolder en-US jar:chrome/showparentfolder.jar!/locale/en-US/
+locale showparentfolder ja jar:chrome/showparentfolder.jar!/locale/ja/
+locale showparentfolder fr jar:chrome/showparentfolder.jar!/locale/fr/
+locale showparentfolder sr-RS jar:chrome/showparentfolder.jar!/locale/sr-RS/
+locale showparentfolder de-DE jar:chrome/showparentfolder.jar!/locale/de-DE/
+
+locale showparentfolder pt-BR jar:chrome/showparentfolder.jar!/locale/pt-BR/
+locale showparentfolder uk-UA jar:chrome/showparentfolder.jar!/locale/uk-UA/
+locale showparentfolder zh-CN jar:chrome/showparentfolder.jar!/locale/zh-CN/
+
+
+
+overlay chrome://browser/content/places/places.xul chrome://showparentfolder/content/overlay3.7.xul  appversion>=3.7a5pre
+
+
+
+overlay chrome://libraryinsidebar/content/sidebarPlacesOverlay.xul  chrome://showparentfolder/content/overlay3.7.xul  appversion>=3.7a5pre
